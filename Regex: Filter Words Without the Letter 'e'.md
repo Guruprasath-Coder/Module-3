@@ -25,9 +25,11 @@ for i in items:
         l1.append(i)
 
 print("Words without 'e':", l1)
-
+```
 ## Output
-Words without 'e': ['goal', 'sit']
+![Screenshot 2025-04-29 120555](https://github.com/user-attachments/assets/441f2da3-ba81-472e-b7ce-d719b858935d)
 
 ## Result
-The program successfully filters and returns all words from the list that do not contain the letter 'e' using regular expressions in Python.
+```
+The program successfully filters and returns all words from the
+list that do not contain the letter 'e' using regular expressions in Python.
