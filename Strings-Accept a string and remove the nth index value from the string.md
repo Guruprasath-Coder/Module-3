@@ -28,11 +28,10 @@ n = int(input("Enter the index to remove: "))
 
 print("Modified string:", remove(text, n))
 
-
+```
 ## Output
-Enter a string: Python
-Enter the index to remove: 2
-Modified string: Pyhon
+![Screenshot 2025-04-29 120612](https://github.com/user-attachments/assets/10d4dd2a-204e-4494-b8ca-393f8471fbfd)
 
 ## Result
+```
 The program successfully removes the character at the specified index from the given string using loops in Python.
